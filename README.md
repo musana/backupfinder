@@ -2,7 +2,7 @@
 
 yet another old tool.
 
-backupfinder is a python based tool that support multi thread. It is not just directory/file brute-force tool.
+backupfinder is a python based tool that support multi thread. It is not a just directory/file brute-force tool.
 It performs brute-force attacks to find files using both common names wordlist techique and domain-related wordlist technique.
 
 ```
